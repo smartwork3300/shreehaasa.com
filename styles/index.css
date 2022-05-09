@@ -84,3 +84,8 @@ h1 {
 
   position: relative;
 }
+@media only screen and (max-width: 600px){
+  .h1size{
+    font-size: 15px;
+  }
+}
